@@ -1,3 +1,6 @@
 ||alibabadns.com
 ||umeng.com
 ||ks.fit
+||k8s-kingsmit-*-*-*.eu-central-1.elb.amazonaws.com
+||start.c10r.facebook.com
+||start.fallback.c10r.facebook.com
