@@ -7,3 +7,5 @@
 ||temu.com
 ||sentry.texts.com
 ||privacy-center.org
+||daemon.nanoleaf.me
+||health.nanoleaf.me
