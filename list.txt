@@ -2,8 +2,8 @@
 ||umeng.com
 ||ks.fit
 ||k8s-kingsmit-*-*-*.eu-central-1.elb.amazonaws.com
-||start.c10r.facebook.com
-||start.fallback.c10r.facebook.com
+||star.c10r.facebook.com
+||star.fallback.c10r.facebook.com
 ||temu.com
 ||sentry.texts.com
 ||privacy-center.org
