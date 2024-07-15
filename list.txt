@@ -9,3 +9,4 @@
 ||privacy-center.org
 ||daemon.nanoleaf.me
 ||health.nanoleaf.me
+||aliyun.com
