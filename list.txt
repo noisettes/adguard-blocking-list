@@ -10,3 +10,7 @@
 ||daemon.nanoleaf.me
 ||health.nanoleaf.me
 ||aliyun.com
+||aliyuncs.com
+||ys7.com
+||baidu.com
+||eu-pet.com
