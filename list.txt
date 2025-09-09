@@ -3,6 +3,8 @@
 ||ks.fit
 ||k8s-kingsmit-*-*-*.eu-central-1.elb.amazonaws.com
 ||temu.com
+||temucdn.com
+||tderr5hjtrk.com
 ||sentry.texts.com
 ||privacy-center.org
 ||daemon.nanoleaf.me
