@@ -14,4 +14,4 @@
 ||ys7.com
 ||baidu.com
 ||analytics.adjust.io
-||adserver.bluestack.app
+||bluestack.app
