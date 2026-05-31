@@ -15,3 +15,5 @@
 ||baidu.com
 ||analytics.adjust.io
 ||bluestack.app
+! Blocks any subdomain segment exactly equal to "utiq" (not partial matches like "boutique")
+||/(\.|^)utiq\./
